@@ -2,6 +2,8 @@
 
 This project was created by unnamedSoftware™ at rigas.unnamedsoftware.ocm
 
+## All of this code was build on [twitch.tv](https://twitch.tv/kappanewfrog)
+
 ## Available Scripts
 
 In the project directory, you can run:
